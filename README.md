@@ -2,7 +2,7 @@
 
 [![license](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![CI workflow](https://github.com/indigo-tangerine/itc-tfm-project-template/actions/workflows/ci-pr.yml/badge.svg)
-![CD workflow](https://github.com/indigo-tangerine/itc-tfm-project-template/actions/workflows/cd-pr.yml/badge.svg)
+![CD workflow](https://github.com/indigo-tangerine/itc-tfm-project-template/actions/workflows/cd.yml/badge.svg)
 
 ## Change this line
 
