@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [v0.2.0](https://github.com/indigo-tangerine/itc-tfm-module-template/releases/tag/v0.2.0) - 2022-05-05 19:44:34
+
+*No description*
+
+### Bug Fixes
+
+- general:
+  - fix readme ([26e6efb](https://github.com/indigo-tangerine/itc-tfm-module-template/commit/26e6efb353c59516c3e5f22b27fe0ed8c2db4f02))
+
 ## [v0.1.0](https://github.com/indigo-tangerine/itc-tfm-module-template/releases/tag/v0.1.0) - 2022-05-05 19:40:17
 
 *No description*
